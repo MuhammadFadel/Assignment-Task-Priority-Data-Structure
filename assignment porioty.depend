@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480586773 source:d:\apps code blocks\assignment porioty\main.c
+	<stdio.h>
+	<stdlib.h>
+	"que.h"
+
+1480584699 d:\apps code blocks\assignment porioty\que.h
+
